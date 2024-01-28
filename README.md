@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Generative AI and Data Engineering
+
+👯 I’m looking to collaborate on making the world better place to live using technology
